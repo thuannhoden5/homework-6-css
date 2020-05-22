@@ -1,0 +1,32 @@
+.menu {
+    background-color: #D5B0AC;
+    color: #402E2A;
+    font-weight: bold;
+    text-align: center;
+}
+.menu span {
+    width: 100px;
+    height: 30px;
+    display: inline-block;
+    line-height: 30px;
+}
+.highlighted {
+    color: #FFFFFF;
+}
+menu .background {
+    background-color: #9CD08F;
+}
+.menu_vertical span {
+    width: 100px;
+    height: 30px;
+    display: block;
+    background-color: #D5B0AC;
+    color: #402E2A;
+    margin:1px;
+}
+.menu_vertical{
+    display: inline;
+}
+.menu_vertical .background{
+    background-color: #9CD08F;
+}
